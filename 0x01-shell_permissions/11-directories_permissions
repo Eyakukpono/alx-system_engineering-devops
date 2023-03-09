@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod {} cd
+chmod 111 cd
